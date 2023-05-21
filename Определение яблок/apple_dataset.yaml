@@ -1,0 +1,5 @@
+train: apple_dataset/train/images
+val: apple_dataset/val/images
+
+nc: 2
+names: ['apple', 'damaged_apple']
